@@ -19,7 +19,7 @@
 
 .slider .btn {
     margin-top: 20px;
-    padding: 0 50px;
+    padding: 0.50px;
     border-radius: 1%;
 }
 
@@ -42,15 +42,15 @@
 
 .contact-info {
   display: flex;
-  flex-wrap: wrap; /* Allows items to wrap onto the next line */
-  gap: 20px; /* Optional: Adds space between items */
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .contact-item {
   display: flex;
   align-items: center;
-  flex-basis: 45%; /* Each item takes about 45% of the width */
-  margin-bottom: 10px; /* Space below each row */
+  flex-basis: 45%;
+  margin-bottom: 10px;
 }
 
 .contact-item i {
